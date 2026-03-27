@@ -1,5 +1,5 @@
 # PROJECT: SOC WORKFLOW SIMULATION & PRACTICAL APPLICATION
-# AUTHOR: [Your Name]
+# AUTHOR: Vibhuti Kumar
 # DATE: March 27, 2026
 
 ================================================================================
